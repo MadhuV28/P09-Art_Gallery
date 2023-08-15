@@ -13,4 +13,4 @@ The goals of this assignment include:
 • Implement common Binary Search Tree (BST) operations.
 • Further developing your experience in recursive problem-solving.
 • Improve your experience in developing unit tests.
-The Source code can be found inside the 'P09/src' folder.
+The Source code can be found inside the 'P09/src' directory.
